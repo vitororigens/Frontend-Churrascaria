@@ -1,0 +1,22 @@
+.info {
+  background: #391005;
+}
+
+.info a {
+  color: #ffae58;
+  transition: color 0.3s ease-in-out;
+}
+
+.info a:hover {
+  color: #c94118;
+}
+
+#logo {
+  font-family: "Lobster", cursive;
+  word-spacing: 0.6rem;
+  color: #ffae58;
+}
+
+#logo a {
+  text-decoration: none;
+}/*# sourceMappingURL=principal.css.map */
